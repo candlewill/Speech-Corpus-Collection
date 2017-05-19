@@ -12,6 +12,12 @@ This repo is a collection of Speech Corpus for automatic speech recognition (ASR
 1. [CMU ARCTIC Databases](http://festvox.org/cmu_arctic/)
 <br>The databases consist of around 1150 utterances, including US English male (bdl) and female (slt) speakers, as well as other accented speakers.
 
+### General
+
+1. [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth)
+<br>NSynth is an audio dataset containing 305,979 musical notes, each with a unique pitch, timbre, and envelope. For 1,006 instruments from commercial sample libraries, we generated four second, monophonic 16kHz audio snippets, referred to as notes, by ranging over every pitch of a standard MIDI pian o (21-108) as well as five different velocities (25, 50, 75, 100, 127). The note was held for the first three seconds and allowed to decay for the final second.
+
+
 ### Contact Me
 
 [Yunchao He](mailto:yunchaohe@gmail.com)
