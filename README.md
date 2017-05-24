@@ -7,6 +7,12 @@ This repo is a collection of Speech Corpus for automatic speech recognition (ASR
 1. [VCTK](http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html)
 <br>Around 10.4GB. [Alternative Host](http://www.udialogue.org/download/cstr-vctk-corpus.html)
 
+2. [LibriSpeech](http://www.openslr.org/12/)
+<br>Large-scale (1000 hours) corpus of read English speech.
+
+3. [TEDLIUM release 2](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)
+<br>The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website. The authors have prepared and filtered these data in order to train acoustic models to participate to the International Workshop on Spoken Language Translation 2011 (the LIUM English/French SLT system reached the first rank in the SLT task). 
+
 ### TTS Corpus
 
 1. [CMU ARCTIC Databases](http://festvox.org/cmu_arctic/)
