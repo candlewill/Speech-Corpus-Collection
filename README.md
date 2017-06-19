@@ -21,6 +21,9 @@ This repo is a collection of Speech Corpus for automatic speech recognition (ASR
 2. [The World English Bible](http://www.audiotreasure.com/webindex.htm)
 <br>The World English Bible is a public domain update of the American Standard Version of 1901 into modern English. Its text and audio recordings are freely avaiable [here](http://www.audiotreasure.com/webindex.htm). Unfortunately, however, each of the audio files matches a chapter, not a verse, so is too long in most cases. [Kyubyong](https://github.com/Kyubyong/tacotron) sliced them by verse manually. You can get them on his [dropbox](https://dl.dropboxusercontent.com/u/42868014/WEB.zip).
 
+3. [Nancy Corpus](http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/)
+<br>The Nancy corpus from the 2011 Blizzard Challenge. The data is freely availiable for research use on the signing of a license. 
+
 ### General
 
 1. [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth)
